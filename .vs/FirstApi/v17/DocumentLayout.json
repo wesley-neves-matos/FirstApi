@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Infor\\source\\repos\\FirstApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F6F098-F708-4045-A1DB-DD94536F2CE3}|FirstApi\\FirstApi.csproj|c:\\users\\infor\\source\\repos\\firstapi\\firstapi\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F6F098-F708-4045-A1DB-DD94536F2CE3}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F6F098-F708-4045-A1DB-DD94536F2CE3}|FirstApi\\FirstApi.csproj|c:\\users\\infor\\source\\repos\\firstapi\\firstapi\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F6F098-F708-4045-A1DB-DD94536F2CE3}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Infor\\source\\repos\\FirstApi\\FirstApi\\Entities\\Contato.cs",
+              "RelativeDocumentMoniker": "FirstApi\\Entities\\Contato.cs",
+              "ToolTip": "C:\\Users\\Infor\\source\\repos\\FirstApi\\FirstApi\\Entities\\Contato.cs",
+              "RelativeToolTip": "FirstApi\\Entities\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:01:49.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Infor\\source\\repos\\FirstApi\\FirstApi\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "FirstApi\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Infor\\source\\repos\\FirstApi\\FirstApi\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "FirstApi\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAhwEoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:20:27.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
